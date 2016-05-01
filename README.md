@@ -1,7 +1,6 @@
 
-                        Bienvenido a este Curso de Android.
+#  Bienvenido a este Curso de Android.
 
-# Indice
 
 ##  Introduccion
    Presentacion Curso
