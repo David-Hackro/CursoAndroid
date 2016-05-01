@@ -1,5 +1,5 @@
 
-#  Bienvenido a este Curso de Android.
+#  Curso de Android
 
 
 ##  Introduccion
