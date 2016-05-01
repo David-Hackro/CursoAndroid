@@ -1,5 +1,5 @@
-/*
-Welcome to the Curso-Android wiki Bienvenido!
+
+                        Bienvenido a este Curso de Android.
 
 # Indice
 
@@ -84,4 +84,3 @@ Welcome to the Curso-Android wiki Bienvenido!
   Event Handlers
 
 
-*/
