@@ -3,83 +3,83 @@
 
 
 ##  Introduccion
-   Presentacion Curso
+*    Presentacion Curso
 
    
 ##  Configuracion Entorno Desarrollo
 
-  Instalacion Android Studio
+*    Instalacion Android Studio
 
-  Descarga de SDK Android
+*    Descarga de SDK Android
 
-  Instalacion Genymotion
+*    Instalacion Genymotion
 
 ## Conceptos Generales
 
-  Android Studio
+*    Android Studio
 
-  Estructura de un proyecto
+*    Estructura de un proyecto
 
-  Hello Word
+*    Hello Word
 
 ## Componentes de una aplicación
 
-  Vista (View)
+*    Vista (View)
 
-  Layout
+*    Layout
 
-  Actividad (Activity)
+*    Actividad (Activity)
 
-  Servicio (Service)
+*    Servicio (Service)
 
-  Intención (Intent)
+*    Intención (Intent)
 
   Fragment
 
-  Receptor de anuncios (Broadcast receiver)
+*    Receptor de anuncios (Broadcast receiver)
 
-  Proveedores de Contenido (Content Provider)
+*    Proveedores de Contenido (Content Provider)
 
 
 ## Layout
 
-  Relative Layout
+*    Relative Layout
 
-  Linear Layout
+*    Linear Layout
 
-  Table Layout
+*    Table Layout
 
-  FrameLayout
+*    FrameLayout
 
 
 ## Controles
 
-  Botones
+*    Botones
 
-  TextView
+*    TextView
 
-  EditText
+*    EditText
 
-  ImageView
+*    ImageView
 
-  ImageButton
+*    ImageButton
 
-  Checkbox
+*    Checkbox
 
-  Radiobutton
+*    Radiobutton
 
-  Toggle Buttons
+*    Toggle Buttons
 
-  pickers
+*    pickers
 
-  Listas listView
+*    Listas listView
 
-  Lista Despegable Spinner
+*    Lista Despegable Spinner
 
 ## Eventos de entrada
 
-  Event Listeners
+*    Event Listeners
 
-  Event Handlers
+*    Event Handlers
 
 
