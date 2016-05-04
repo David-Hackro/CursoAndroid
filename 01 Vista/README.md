@@ -7,7 +7,7 @@ This class represents the basic building block for user interface components. A 
 
 
 
-                         [![Vistas](http://tutorialeshackro.github.io/CursoAndroid/img/portfolio/submarine.png)](https://www.youtube.com/user/tutorialeshackro)
+[![Vistas](http://tutorialeshackro.github.io/CursoAndroid/img/portfolio/submarine.png)](https://www.youtube.com/user/tutorialeshackro)
                          
 ####Click para ver el video
 
